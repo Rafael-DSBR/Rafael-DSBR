@@ -46,7 +46,6 @@ Currently operating as a **Technical Bridge** between Support and Engineering. M
 | **⚖️ Duty-Fairness-Analyzer** | **Data Intelligence** | Extracts shift data from unstructured military PDFs to audit roster fairness. Calculates **Standard Deviation** of service load among soldiers to objectively detect burnout risks. |
 | **🔐 Auto-CertFix** | **Security Automation** | Diagnoses "Broken Chain of Trust" (ICP-Brasil). Automates Root CA injection and Registry patching (TLS/SSL). |
 | **🕸️ Script Lanman** | **Network Ops** | Python utility to standardize NTLMv1, SMB Signing, and LSA protocols across massive ERP environments. |
-| **🤖 ERP-Bot-V1** | **RPA / Visual Testing** | PyAutoGUI implementation for visual regression testing on legacy ERP modules (Non-Web). |
 
 ---
 
