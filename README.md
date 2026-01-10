@@ -51,7 +51,7 @@ Currently operating as a **Technical Bridge** between Support and Engineering. M
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+  <a href="https://linkedin.com/in/rafael-sc-aguilera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
