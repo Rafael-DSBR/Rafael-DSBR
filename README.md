@@ -1,6 +1,6 @@
 ### // Rafael Cavalheiro > QA Automation Engineer & Tier 3 Lead
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Automation%20%7C%20Infrastructure%20%7C%20QA&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Building%20force%20multipliers%20for%20Support%20Teams.&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Automation%20%7C%20Infrastructure%20%7C%20QA&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Building%20force%20multipliers%20for%20Support%20Teams.&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
 
 <div align="center">
