@@ -1,7 +1,7 @@
-### // Rafael Cavalheiro > QA Automation Engineer & Tier 3 Lead
+### // Rafael "Jacaré" Cavalheiro > QA Automation Engineer & Tier 3 Lead
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Automation%20%7C%20Infrastructure%20%7C%20Data&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Building%20force%20multipliers%20for%20Support%20Teams.&descAlignY=55&descAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=220&section=header&text=Automation%20%7C%20Infrastructure%20%7C%20Data&fontSize=38&animation=fadeIn&fontAlignY=38&desc=From%20the%20Pantanal%20Wetlands%20to%20Software%20Engineering.&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -16,6 +16,12 @@
 </div>
 
 ---
+
+### 🐊 Why "Jacaré" (Alligator)?
+
+> *"Comfortable in the mud, whether it's a swamp or a legacy codebase."*
+
+I earned my nickname while serving in the **Brazilian Army's Pantanal Region**—one of the world's toughest wetland environments.
 
 ### ⚡ Mission Status
 
@@ -45,8 +51,8 @@ Currently operating as **Tier 3 Support Lead** & **Automation Engineer** @ Domte
 | Project | Domain | Impact & ROI |
 | :--- | :--- | :--- |
 | [**⚖️ Duty Fairness Analyzer**](https://github.com/Rafael-DSBR/duty-fairness-analyzer) | **Data Intelligence** | Extracts shift data from unstructured military PDFs using `pdfplumber`. Calculates **Standard Deviation** of service loads to audit fairness and prevent burnout risks. Includes **Multithreaded GUI**. |
-| [**🔐 Auto-CertFix**](https://github.com/Rafael-DSBR/auto-certfix) | **Security Ops** | **PKI Orchestrator**. Automates the diagnosis of "Broken Chain of Trust" (ICP-Brasil) and injects Root CAs via `certutil`, enabling Tier 1 agents to fix complex crypto errors in 1 click. |
-| [**🕸️ Script Lanman**](https://github.com/Rafael-DSBR/script-lanman) | **Network Infra** | **Protocol Hardener**. A Python utility that standardizes NTLMv1, SMB Signing, and RPC levels across legacy Windows environments to fix network discovery issues instantly. |
+| [**🐊 Auto-CertFix**](https://github.com/Rafael-DSBR/auto-certfix) | **Security Ops** | **PKI Orchestrator**. Automates the diagnosis of "Broken Chain of Trust" (ICP-Brasil) and injects Root CAs via `certutil`, enabling Tier 1 agents to fix complex crypto errors in 1 click. |
+| [**🐊 Script Lanman**](https://github.com/Rafael-DSBR/script-lanman) | **Network Infra** | **Protocol Hardener**. A Python utility that standardizes NTLMv1, SMB Signing, and RPC levels across legacy Windows environments to fix network discovery issues instantly. |
 
 ---
 
