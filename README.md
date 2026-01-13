@@ -1,56 +1,58 @@
 ### // Rafael Cavalheiro > QA Automation Engineer & Tier 3 Lead
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Automation%20%7C%20Infrastructure%20%7C%20QA&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Building%20force%20multipliers%20for%20Support%20Teams.&descAlignY=55&descAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Automation%20%7C%20Infrastructure%20%7C%20Data&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Building%20force%20multipliers%20for%20Support%20Teams.&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <h3> ♟️ "If a problem is repetitive, it must be automated."</h3>
+  <br>
+  <h3>♟️ "If a problem is repetitive, it must be automated."</h3>
+  <p>
+    <em>
+      Technical Bridge between Support Operations and Software Engineering.<br>
+      Specialized in creating internal tools that democratize Senior-level solutions.
+    </em>
+  </p>
 </div>
 
 ---
 
 ### ⚡ Mission Status
-Currently operating as a **Technical Bridge** between Support and Engineering. My focus is engineering internal tools (Python/Selenium) that eliminate repetitive toil and democratize Senior-level solutions for the entire squad.
 
-- 🔭 **Current Role:** QA Automation Engineer & Tier 3 Support Lead @ Domtec.
-- 🔧 **Main Guns:** Python, Selenium, PyAutoGUI, SQL (PostgreSQL).
-- 🛡️ **Specialty:** High-Stakes Incident Management & Infrastructure Automation.
-- 🎯 **Goal:** Transitioning to International/Remote Data & Automation roles.
+Currently operating as **Tier 3 Support Lead** & **Automation Engineer** @ Domtec. My core loop involves identifying high-volume operational bottlenecks and engineering Python/SQL solutions to eliminate them permanently.
+
+- 🔭 **Current Role:** Engineering internal tooling to reduce SLA breach risks.
+- 🔧 **Main Guns:** Python (Selenium/Pandas), PostgreSQL, Legacy ERP Integration.
+- 🛡️ **Specialty:** High-Stakes Incident Management & Infrastructure Hardening.
+- 🎯 **Objective:** International Remote roles in **Data Analysis** or **QA Automation**.
 
 ---
 
 ### 🛠️ The Arsenal (Tech Stack)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyAutoGUI-RPA-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Ops-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Automation & QA** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/PyAutoGUI-RPA-FFD43B?style=flat-square&logo=python&logoColor=blue" /> |
+| **Data & Backend** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" /> |
+| **Infrastructure** | <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_Ops-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Networking-TCP/IP-gray?style=flat-square" /> |
 
 ---
 
-### 📂 Featured Engineering (The "Alligator Suite")
+### 📂 Featured Engineering
 
-> *These repositories showcase the logic used to solve enterprise bottlenecks.*
+> *Repositories containing the sanitized logic used to solve real-world enterprise bottlenecks.*
 
-| Project | Role | Impact |
+| Project | Domain | Impact & ROI |
 | :--- | :--- | :--- |
-| **⚖️ Duty-Fairness-Analyzer** | **Data Intelligence** | Extracts shift data from unstructured military PDFs to audit roster fairness. Calculates **Standard Deviation** of service load among soldiers to objectively detect burnout risks. |
-| **🔐 Auto-CertFix** | **Security Automation** | Diagnoses "Broken Chain of Trust" (ICP-Brasil). Automates Root CA injection and Registry patching (TLS/SSL). |
-| **🕸️ Script Lanman** | **Network Ops** | Python utility to standardize NTLMv1, SMB Signing, and LSA protocols across massive ERP environments. |
+| [**⚖️ Duty Fairness Analyzer**](https://github.com/Rafael-DSBR/duty-fairness-analyzer) | **Data Intelligence** | Extracts shift data from unstructured military PDFs using `pdfplumber`. Calculates **Standard Deviation** of service loads to audit fairness and prevent burnout risks. Includes **Multithreaded GUI**. |
+| [**🔐 Auto-CertFix**](https://github.com/Rafael-DSBR/auto-certfix) | **Security Ops** | **PKI Orchestrator**. Automates the diagnosis of "Broken Chain of Trust" (ICP-Brasil) and injects Root CAs via `certutil`, enabling Tier 1 agents to fix complex crypto errors in 1 click. |
+| [**🕸️ Script Lanman**](https://github.com/Rafael-DSBR/script-lanman) | **Network Infra** | **Protocol Hardener**. A Python utility that standardizes NTLMv1, SMB Signing, and RPC levels across legacy Windows environments to fix network discovery issues instantly. |
 
 ---
 
 <div align="center">
+  <br>
   <a href="https://linkedin.com/in/rafael-sc-aguilera" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
