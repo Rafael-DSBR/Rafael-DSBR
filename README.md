@@ -1,7 +1,7 @@
 ### // Rafael "Jacaré" Cavalheiro > QA Automation Engineer & Tier 3 Lead
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=220&section=header&text=Automation%20%7C%20Infrastructure%20%7C%20Data&fontSize=38&animation=fadeIn&fontAlignY=38&desc=From%20the%20Pantanal%20Wetlands%20to%20Software%20Engineering.&descAlignY=55&descAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Automation%20%7C%20Infrastructure%20%7C%20Data&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Building%20force%20multipliers%20for%20Support%20Teams.&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@ Currently operating as **Tier 3 Support Lead** & **Automation Engineer** @ Domte
 - 🔭 **Current Role:** Engineering internal tooling to reduce SLA breach risks.
 - 🔧 **Main Guns:** Python (Selenium/Pandas), PostgreSQL, Legacy ERP Integration.
 - 🛡️ **Specialty:** High-Stakes Incident Management & Infrastructure Hardening.
-- 🎯 **Objective:** International Remote roles in **Data Analysis** or **QA Automation**.
+- 🎯 **Objective:** Remote roles in **Data Analysis**, **Support Operations**, **Internal Tools**, or **Automation**.
 
 ---
 
