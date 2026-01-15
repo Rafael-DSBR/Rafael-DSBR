@@ -60,17 +60,11 @@ Currently operating as **Tier 3 Support Engineer** & **Automation Specialist**. 
 
 ---
 
+---
+
 <div align="center">
   <br>
-  <a href="https://linkedin.com/in/rafael-sc-aguilera" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rafael.sc.aguilera@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-  <br>
-  <a href="https://linkedin.com/in/rafael-sc-aguilera" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/rafael-sc-aguilera" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+  &nbsp;&nbsp;&nbsp; <a href="mailto:rafael.cavalheiro@exemplo.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
