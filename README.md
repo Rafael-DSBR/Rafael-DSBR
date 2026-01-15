@@ -51,7 +51,7 @@ Currently operating as **Tier 3 Support Lead** & **Automation Engineer** @ Domte
 | Project | Domain | Impact & ROI |
 | :--- | :--- | :--- |
 | [**⚖️ Duty Fairness Analyzer**](https://github.com/Rafael-DSBR/duty-fairness-analyzer) | **Data Intelligence** | Extracts shift data from unstructured military PDFs using `pdfplumber`. Calculates **Standard Deviation** of service loads to audit fairness and prevent burnout risks. Includes **Multithreaded GUI**. |
-| [**🐊 Auto-CertFix**](https://github.com/Rafael-DSBR/auto-certfix) | **Security Ops** | **PKI Orchestrator**. Automates the diagnosis of "Broken Chain of Trust" (ICP-Brasil) and injects Root CAs via `certutil`, enabling Tier 1 agents to fix complex crypto errors in 1 click. |
+| [**🐊 Auto-CertFix**](https://github.com/Rafael-DSBR/Cert-Fix) | **Security Ops** | **PKI Orchestrator**. Automates the diagnosis of "Broken Chain of Trust" (ICP-Brasil) and injects Root CAs via `certutil`, enabling Tier 1 agents to fix complex crypto errors in 1 click. |
 | [**🐊 Script Lanman**](https://github.com/Rafael-DSBR/script-lanman) | **Network Infra** | **Protocol Hardener**. A Python utility that standardizes NTLMv1, SMB Signing, and RPC levels across legacy Windows environments to fix network discovery issues instantly. |
 
 ---
