@@ -1,4 +1,4 @@
-### Rafael "Jacaré" Cavalheiro > QA Automation Engineer & Tier 3 Lead
+### Rafael "Jacaré" Cavalheiro > QA Automation Engineer & Tier 3 Technical Support
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Automation%20%7C%20Infrastructure%20%7C%20Data&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Building%20force%20multipliers%20for%20Support%20Teams.&descAlignY=55&descAlign=50&fontColor=ffffff" />
