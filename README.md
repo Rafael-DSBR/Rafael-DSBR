@@ -54,6 +54,7 @@ Currently operating as **Tier 3 Support Engineer** & **Automation Specialist**. 
 
 | Project | Domain | Impact & ROI |
 | :--- | :--- | :--- |
+| [**🐙 Hydra Gemini Station**](https://github.com/Rafael-DSBR/hydra-gemini-station) | **AI & Vision** | ![Status](https://img.shields.io/badge/Status-Innovation-8A2BE2?style=flat-square) <br> **Desktop AI Workstation**. Integrates Google Gemini with Computer Vision (`mss`) to analyze screen context instantly. |
 | [**⚖️ Duty Fairness Analyzer**](https://github.com/Rafael-DSBR/duty-fairness-analyzer) | **Data Intel** | ![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square) <br> Extracts shift data from military PDFs using `pdfplumber`. Calculates **Standard Deviation** to audit fairness. |
 | [**🐊 Cert-Fix**](https://github.com/Rafael-DSBR/cert-fix) | **SecOps** | ![Status](https://img.shields.io/badge/Status-Production-blue?style=flat-square) <br> **PKI Orchestrator**. Automates "Broken Chain of Trust" diagnosis and injects Root CAs via `certutil`. |
 | [**🐊 Script Lanman**](https://github.com/Rafael-DSBR/script-lanman) | **Net Infra** | ![Status](https://img.shields.io/badge/Status-Legacy_Fix-orange?style=flat-square) <br> **Protocol Hardener**. Standardizes NTLMv1/SMB Signing across Windows environments. |
@@ -65,6 +66,6 @@ Currently operating as **Tier 3 Support Engineer** & **Automation Specialist**. 
 <div align="center">
   <br>
   <a href="https://linkedin.com/in/rafael-sc-aguilera" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
+   
   &nbsp;&nbsp;&nbsp; <a href="mailto:rafael.cavalheiro@exemplo.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
